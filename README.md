@@ -16,9 +16,9 @@ The project follows the **CRISP-DM (Cross-Industry Standard Process for Data Min
 6️⃣ **Deployment** – Summarize insights and prepare a final report.  
 
 ## 📂 Project Structure
-Directory	Purpose
-data/	Raw & processed datasets
-notebooks/	Jupyter notebooks for EDA & modeling
-scripts/	Python scripts for data processing & model training
-visualizations/	Charts & dashboards
-reports/	Final documentation & presentations
+**Directory	Purpose**
+**Data/	Raw & processed datasets**
+**Notebooks/	Jupyter notebooks for EDA & modeling**
+**Scripts/	Python scripts for data processing & model training**
+**Visualizations/	Charts & dashboards**
+**Reports/	Final documentation & presentations**
