@@ -28,3 +28,14 @@ The project follows the **CRISP-DM (Cross-Industry Standard Process for Data Min
 **Visualizations/	Charts & dashboards**
 
 **Reports/	Final documentation & presentations**
+
+**📊 Dataset Information**
+Events.csv – User interactions (views, add to cart, purchases).
+Item_properties.csv – Product metadata (price, availability, category).
+Category_tree.csv – Hierarchical structure of product categories.
+
+**🛠 Tools & Libraries**
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Machine Learning (Scikit-learn, TensorFlow Recommenders, Surprise)
+Visualization (Tableau, Power BI)
+Version Control (Git & GitHub)
