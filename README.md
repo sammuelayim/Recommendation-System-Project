@@ -38,4 +38,4 @@ Category_tree.csv – Hierarchical structure of product categories.
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Machine Learning (Scikit-learn, TensorFlow Recommenders, Surprise).
 Visualization (Tableau, Power BI).
-Version Control (Git & GitHub)
+Version Control (Git & GitHub).
