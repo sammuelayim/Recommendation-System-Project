@@ -25,7 +25,7 @@ The project follows the **CRISP-DM (Cross-Industry Standard Process for Data Min
 
 **Scripts/	Python scripts for data processing & model training**
 
-**Visualizations/	Charts & dashboards**
+**Visualizations/	Charts & dashboards**.
 
 **Reports/	Final documentation & presentations**
 
