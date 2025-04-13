@@ -23,7 +23,7 @@ The project follows the **CRISP-DM (Cross-Industry Standard Process for Data Min
 
 **Notebooks/	Jupyter notebooks for EDA & modeling**
 
-**Scripts/	Python scripts for data processing & model training**
+**Scripts/	Python scripts for data processing & model training**.
 
 **Visualizations/	Charts & dashboards**.
 
